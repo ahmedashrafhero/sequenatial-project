@@ -1,0 +1,12 @@
+c:\users\eslam\documents\visual studio 2012\Projects\seqMaze\seqMaze\bin\Debug\seqMaze.exe.config
+c:\users\eslam\documents\visual studio 2012\Projects\seqMaze\seqMaze\bin\Debug\seqMaze.exe
+c:\users\eslam\documents\visual studio 2012\Projects\seqMaze\seqMaze\bin\Debug\seqMaze.pdb
+c:\users\eslam\documents\visual studio 2012\Projects\seqMaze\seqMaze\obj\Debug\seqMaze.csprojResolveAssemblyReference.cache
+c:\users\eslam\documents\visual studio 2012\Projects\seqMaze\seqMaze\obj\Debug\seqMaze.exe
+c:\users\eslam\documents\visual studio 2012\Projects\seqMaze\seqMaze\obj\Debug\seqMaze.pdb
+C:\Users\Z51\Desktop\seqMaze\seqMaze\bin\Debug\seqMaze.exe.config
+C:\Users\Z51\Desktop\seqMaze\seqMaze\bin\Debug\seqMaze.exe
+C:\Users\Z51\Desktop\seqMaze\seqMaze\bin\Debug\seqMaze.pdb
+C:\Users\Z51\Desktop\seqMaze\seqMaze\obj\Debug\seqMaze.csprojResolveAssemblyReference.cache
+C:\Users\Z51\Desktop\seqMaze\seqMaze\obj\Debug\seqMaze.exe
+C:\Users\Z51\Desktop\seqMaze\seqMaze\obj\Debug\seqMaze.pdb
